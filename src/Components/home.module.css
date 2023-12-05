@@ -1,0 +1,28 @@
+ 
+
+.home{
+    text-align: left;
+    display: inline;
+    flex-wrap: wrap;
+}
+
+.home button {
+    color: wheat;
+    background-color:black;
+    width: 7rem;
+    height: 2rem;
+    flex-basis: 30%;
+    margin-top: 1rem;
+    border-radius: 50px;
+}
+
+.home label{
+    margin-left: 2rem;
+    margin-right: 0.5rem;
+}
+
+.home select{
+    background-color:darkslateblue;
+    color: white;
+    font-weight: bold;
+}
